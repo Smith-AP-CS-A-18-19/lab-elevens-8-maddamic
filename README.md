@@ -1,3 +1,5 @@
+Michael Maddalon
+
 # Elevens 8
 
 Follow the instructions provided for Activity 8 in the student lab guide. This is more of an exploratory lab, so you will not need to copy any of your previous code into the repo. Answer the questions from the Student Guide in this document and ensure that you save and push the repo. You have one week to complete this lab.
